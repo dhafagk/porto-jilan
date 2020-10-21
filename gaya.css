@@ -1,0 +1,78 @@
+basic {
+	background-color: black;
+	color: white;
+
+}
+
+.bg{
+	background-image: url(aset/35.png);
+	height: 550px;
+
+}
+
+span {
+	background-color: white;
+	color: black;
+}
+.bold {
+	font-weight:bold;
+	line-height: ;
+}
+
+.gede {
+	font-size: 2.5rem;
+}
+
+.marhead{
+	margin-top: 120px;
+}
+
+.container-image-border {
+  margin-top: 40px;
+  background-color: pink;
+  position: relative;
+  top: 	-50px;
+}
+
+.container-image-border img {
+  position: absolute;
+  width: 300px;
+  height: 400px;
+  top: 15px;
+  right: -40px;
+  filter: saturate(0);
+}
+
+.slab{
+	font-family: Roboto slab;
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+.porto {
+	margin-top:150px;
+	padding: 5px;
+}
+
+.border{
+	background-color: pink;
+	margin-top: 60px;
+	border-radius: 10px;
+}
+
+.text{
+	padding: 30px 30px 0px 30px;
+	
+}
+
+.border img{
+	margin-top: 30px;
+}
+
+#blur {
+	background-color: #FBFBFB;
+}
+
+.markan {
+	margin-right: 70px;
+}

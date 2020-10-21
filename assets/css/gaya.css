@@ -1,0 +1,164 @@
+.basic {
+	background-color: black;
+	color: white;
+
+}
+
+.pendek {
+	margin-top: 0px;
+}
+.bg{
+	background-image: url(../35.png);
+	margin-bottom: 50px;
+	padding-bottom: 50px;
+}
+
+.bg2{
+	background-image: url(../50.png);
+	height: 300px;
+
+}
+
+.center{
+	text-align: center;
+}
+
+.center p{
+	padding-left:  150px;
+	padding-right:  150px;
+}
+#about{
+	height: 250px;	
+}
+
+span {
+	background-color: white;
+	color: black;
+	padding: 0px  ;
+	margin-top: 5px;
+}
+
+#normal{
+		background-color: transparent;
+	color: white;
+	padding: 0px  ;
+	margin-top: 5px;
+}
+.bold {
+	font-weight:bold;
+	line-height: ;
+}
+
+.gede {
+	font-size: 2.5rem;
+}
+
+@media only screen and (max-width: 320px) {
+  .gede {
+    font-size: 1.5rem;
+    color: blue;
+  }
+}
+.marhead{
+	margin-top: 120px;
+}
+
+#tentang{
+	margin-top: 7%;
+}
+.container-image-border {
+  margin-top: 40px;
+  background-color: pink;
+  position: relative;
+  top: 	-50px;
+}
+
+.container-image-border img {
+  position: absolute;
+  width: 300px;
+  height: 400px;
+  top: 15px;
+  right: -40px;
+  filter: saturate(0);
+}
+
+.slab{
+	font-family: Roboto slab;
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+.porto {
+	margin-top:150px;
+	padding: 5px;
+}
+
+.border{
+	background-color: pink;
+	margin-top: 60px;
+	border-radius: 10px;
+}
+
+.text{
+	padding: 30px 30px 0px 30px;
+	
+}
+
+.border img{
+	margin-top: 30px;
+}
+
+#blur {
+	background-color: #FBFBFB;
+}
+
+.markan {
+	margin-right: 70px;
+}
+.wadidaw {
+	margin-top: 100px auto;
+}
+.wadidaw img {
+	width: 100%;
+}
+
+.box img{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+	width: 100%;
+	margin: auto;
+	
+}
+
+.mar-top{
+	margin-top: 20px;
+}
+
+.mar-right{
+		padding: 50px 0px 0px 0px;	
+}
+
+.navbar-brand {
+	color: black!important;
+	font-weight: bold!important;
+
+}
+
+.martext {
+	margin-right: 400px;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+.active{
+	color: black!important;
+	font-weight: bold;
+}
+
+.tentang {
+	font-size: 50px;
+}
